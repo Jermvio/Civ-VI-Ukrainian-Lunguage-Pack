@@ -13,7 +13,7 @@
 			<Text>Будівля (replaces {1_BuildingName})</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_CIVIC_NAME">
-			<Text>Civic</Text>
+			<Text>Пен</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_DISTRICT_NAME">
 			<Text>District</Text>
