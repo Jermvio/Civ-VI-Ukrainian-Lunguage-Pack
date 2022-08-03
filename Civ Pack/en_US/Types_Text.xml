@@ -4,7 +4,7 @@
 	<BaseGameText>
 		<!-- Types -->
 		<Row Tag="LOC_BELIEF_NAME">
-			<Text>Belief</Text>
+			<Text>Вірування</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_NAME">
 			<Text>Building</Text>
